@@ -1,4 +1,4 @@
-# Quantumult X 小白系列教程
+# Quantumult X 自用理解
 
 
 
@@ -14,8 +14,7 @@
 
 感谢规则、脚本等提供(不分先后)：
 
-[DivineEngine](https://github.com/DivineEngine)、 [GeQ1an](https://github.com/GeQ1an)、[NobyDa](https://github.com/NobyDa)、[lhie1](https://github.com/lhie1)、[chavyleung](https://github.com/chavyleung)、[lxk0301](https://github.com/lxk0301)、[yichahucha](https://github.com/yichahucha)、[Sunert(Flydreams)](https://github.com/Sunert/Scripts)、 [ddgksf2013](https://github.com/ddgksf2013)、 [app2smile](https://github.com/app2smile)、 [陌路
-zwf234]（https://github.com/zwf234）
+[DivineEngine](https://github.com/DivineEngine)、 [GeQ1an](https://github.com/GeQ1an)、[NobyDa](https://github.com/NobyDa)、[lhie1](https://github.com/lhie1)、[chavyleung](https://github.com/chavyleung)、[lxk0301](https://github.com/lxk0301)、[yichahucha](https://github.com/yichahucha)、[Sunert(Flydreams)](https://github.com/Sunert/Scripts)、 [ddgksf2013](https://github.com/ddgksf2013)、 [app2smile](https://github.com/app2smile)、 [陌路zwf234](https://github.com/zwf234)
 
 感谢icon资源提供(不分先后)：
 
