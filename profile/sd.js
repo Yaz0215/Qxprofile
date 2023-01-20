@@ -2,6 +2,7 @@
 圈x
 保存这个js文件、到本地Script下面
 再去复制一下内容到对应的配置
+*/
 
 [rewrite_local]
 #本地脚本
@@ -11,7 +12,7 @@ https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body ng-pro
 
 MITM = buy.itunes.apple.com
 
-*/
+
 
 var obj = JSON.parse($response.body); 
  
